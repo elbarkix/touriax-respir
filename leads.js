@@ -59,7 +59,7 @@
             // Reenable the inputs
             $inputs.prop("disabled", false);
             console.log("It's running");
-            window.location.href = 'https://www.lescommandes.shop/thanks/';
+            window.location.href = 'thanks.html';
         });
 
         // Prevent default posting of form
